@@ -1,2 +1,2 @@
 # floaty
-A floating window manager written in Python.
+A floating wayland compositor written in Python.
